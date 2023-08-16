@@ -1,6 +1,6 @@
 # Frontend Mentor - Newsletter sign-up form with success message
+![image](https://github.com/arsalan-ansari3264/Frontend_mentor_challanges/assets/123856997/041a72b5-2b47-4c8d-8304-0106bf92a447)
 
-![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
